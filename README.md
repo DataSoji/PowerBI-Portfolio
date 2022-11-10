@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-## Project 1: Redox Airline Project
+## [Project 1: Redox Airline Project](https://github.com/DataSoji/PowerBI-Portfolio/blob/main/Redox%20Airlines.pdf)
 
  This is to analyze the data and present key insights to drive the business growth and position in the Airline Industry.
  
