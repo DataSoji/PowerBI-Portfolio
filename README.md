@@ -12,7 +12,9 @@
     * Show the total revenue per flight, assuming a 10% tax on all fares 
  * The Airline generated over $300 million in a year 
 
-#### The executive summary of the Redox Airline Dashboard ![](Summary%20Page.png)
+#### The executive summary of the Redox Airline Dashboard 
+
+![](Summary%20Page.png)
 
 
 
