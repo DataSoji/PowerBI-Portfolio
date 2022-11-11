@@ -17,6 +17,7 @@
 ![](Summary%20Page.png)
 
 
+
 ## [Project 2: Social Buzz Project](https://github.com/DataSoji/PowerBI-Portfolio/blob/main/Social%20Buzz.pdf)
 
  This is to analyze the data and tracking interactions with contents
