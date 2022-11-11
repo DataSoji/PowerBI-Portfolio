@@ -17,4 +17,17 @@
 ![](Summary%20Page.png)
 
 
+## [Project 2: Social Buzz Project](https://github.com/DataSoji/PowerBI-Portfolio/blob/main/Redox%20Airlines.pdf)
+
+ This is to analyze the data and tracking interactions with contents
+ 
+ * The dataset was gotten from a Kaggle
+ * The dashboard was created using Microsoft Power BI
+ * Data cleaning process such as removing duplicate rows and removing unwanted observations from the dataset.
+
+#### The executive summary of the Social Buzz Dashboard 
+
+![](Summary%20Page.png)
+
+
 
