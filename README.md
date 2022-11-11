@@ -27,7 +27,7 @@
 
 #### The executive summary of the Social Buzz Dashboard 
 
-![](Summary%20Page.png)
+![](Social%20Buzz%20Summary%20Page.png)
 
 
 
